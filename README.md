@@ -1,6 +1,6 @@
 # money_manager
 
-A new Flutter project.
+Berkay Gökmen 1306181429
 
 ## Getting Started
 

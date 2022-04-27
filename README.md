@@ -1,6 +1,6 @@
 # money_manager
 
-Berkay Gökmen 1306181429
+Berkay Gökmen
 
 ## Getting Started
 
